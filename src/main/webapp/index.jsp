@@ -32,7 +32,7 @@ div {
 
     <title>Konidela Kalyan Babu</title>
     <h1>WELCOME TO OUR PAGE PAGE</h1>
-    <link rel="styleSheet"    href="HariGithud/hello-world-war/OIP.jpg"/>
+    <link rel="styleSheet"    href="https://demo-bucket145.s3.amazonaws.com/OIP.jpg"/>
     <script>
         alert("Messasge using Java Script")
     </script>
@@ -49,7 +49,7 @@ div {
     </p>
     <hr/>
     
-    <img src="HariGithud/hello-world-war/OIP.jpg"  height="200"
+    <img src="https://demo-bucket145.s3.amazonaws.com/OIP.jpg"  height="200"
                                              width="300"   
                                              border="5"  
                                              alt="unfortunatly image was corrupted" />
