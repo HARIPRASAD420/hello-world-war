@@ -31,7 +31,6 @@ div {
 </style>
 
     <title>KONIDELA PAWAN KALAYAN GARU</title>
-    <title>***************************</title>
     <h1>WELCOME TO OUR PAGE PAGE</h1>
     <link rel="styleSheet"    href="https://demo-bucket145.s3.amazonaws.com/OIP.jpg"/>
     <script>
@@ -43,6 +42,7 @@ div {
     <div>
     <h2>BODY LEVEL HEADING</h2>
     <span>Span Message(simple message)</span>
+    <span>****************************</span>
     <p>
    Pawan Kalyan's actual name is Konidela Kalyan Babu. He began to call himself as Pawan Kalyan when he worked on his first film, 
    Akkada Abbai Ikkada Ammayi, in 1996. He has worked in several critically and commercially successful films and has established himself 
