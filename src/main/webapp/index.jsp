@@ -49,7 +49,7 @@ div {
     </p>
     <hr/>
     
-    <img src="https://demo-bucket145.s3.amazonaws.com/OIP.jpg"  height="200"
+    <img src="https://demo-bucket145.s3.amazonaws.com/OIP.jpg"  height="500"
                                              width="300"   
                                              border="5"  
                                              alt="unfortunatly image was corrupted" />
