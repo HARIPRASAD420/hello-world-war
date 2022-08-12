@@ -25,7 +25,7 @@ div {
     border: 2px solidblue;
     padding:5px;
     text-align:center;
-    width:700px;
+    width:800px;
     border-radius:10px;
 }
 </style>
