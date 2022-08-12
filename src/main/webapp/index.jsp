@@ -12,7 +12,7 @@
                 }
                 p
                 {
-                    border:1px rgb(14, 37, 80);
+                    border:1px rgb(15, 37, 80);
                     text-align:justify;
                     padding:5px
                 }
